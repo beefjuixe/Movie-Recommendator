@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\Raja\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\movie-recommender-LiYL6luP-py3.13\\Scripts\\python.exe"
+}
